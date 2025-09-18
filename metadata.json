@@ -1,0 +1,5 @@
+{
+  "name": "SMART - Title Tracker",
+  "description": "A multi-step application to review and manage real estate title information, including contract details, property specifics, mortgage liens, and judgments.",
+  "requestFramePermissions": []
+}
